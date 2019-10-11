@@ -93,7 +93,7 @@ justify-content: space-between;
 .single_lifestyle span{
     text-transform: uppercase;
     color: #a69a9a;
-    /* margin-top: 1px; */
+    /* margin-bottom: 13px; */
     }
 .single_lifestyle img{
 
@@ -106,6 +106,8 @@ margin-bottom: 35px;
 font-size: 35px;
 
 color: #6a6767;
+
+margin-top: 35px;
 }
 .single_lifestyle p{
 
